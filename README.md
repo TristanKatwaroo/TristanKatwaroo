@@ -23,6 +23,8 @@ Hi there, I'm Tristan 👋
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/lua.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v12/icons/simpleicons.svg" />
 <img height="32" src="https://cdn.simpleicons.org/lua/DDDDDD?viewbox=auto" />
+<img height="32" src="https://cdn.simpleicons.org/java/DDDDDD?viewbox=auto" />
+<img height="32" src="https://cdn.simpleicons.org/python/DDDDDD?viewbox=auto" />
 
 <!--
 <p align="left">
