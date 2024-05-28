@@ -19,7 +19,7 @@ Hi there, I'm Tristan 👋
 ========================
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=lua,ts,js,py,c,cs,cpp,java,git,react,nodejs,express,mongodb,html,css,mysql,azure,django,aws&perline=50&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=lua,ts,js,py,c,cs,cpp,java,git,react,nodejs,express,mongodb,html,css,mysql,azure,django,aws&perline=50)](https://skillicons.dev)
 
 <!--
 <p align="left">
