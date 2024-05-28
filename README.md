@@ -22,7 +22,7 @@ Hi there, I'm Tristan 👋
 [![My Skills](https://skillicons.dev/icons?i=lua,ts,js,py,c,cs,cpp,java,git,react,nodejs,express,mongodb,html,css,mysql,azure,django,aws&perline=50&theme=light)](https://skillicons.dev)
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/lua.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v12/icons/simpleicons.svg" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/00ccff" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/lua/2C2D72" />
 
 <!--
 <p align="left">
